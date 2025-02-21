@@ -23,26 +23,15 @@
 ---
 
 ## 🔗 Connect With Me  
-📩 **Email:** [oxroybd@gmail.com](mailto:oxroybd@gmail.com)  
-🌐 **Portfolio:** [Behance](https://www.behance.net/arponray)  
-📷 **Behance:** [behance.net/arponray](https://www.behance.net/arponray)  
-🐦 **Twitter:** [x.com/Arpon130](https://x.com/Arpon130)  
-🎥 **YouTube:** [Next Income BD](https://youtube.com/@NextIncomeBD)  
-💬 **Telegram:** [t.me/OxRoY](https://youtube.com/@OxRoY)  
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArponRay&show_icons=true&theme=tokyonight" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArponRay&layout=compact&theme=tokyonight" width="400px" />
+<p align="left">
+  <a href="mailto:oxroybd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.behance.net/arponray"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></a>
+  <a href="https://x.com/Arpon130"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://youtube.com/@NextIncomeBD"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://youtube.com/@OxRoY"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 
 ---
 
 ⭐ **"Creativity + Strategy = Success"** ⭐  
 🔥 Always learning, creating, and innovating!
-<!---
-arponox/arponox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
